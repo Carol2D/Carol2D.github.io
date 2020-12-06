@@ -1,0 +1,16 @@
+{
+"companyName": "Carolina iPlay",
+"productName": "Christmas Alien",
+"productVersion": "0.1",
+"dataUrl": "ChristmasAlienWeb.data.unityweb",
+"wasmCodeUrl": "ChristmasAlienWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChristmasAlienWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#7F8000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
