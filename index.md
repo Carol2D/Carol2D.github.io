@@ -9,12 +9,10 @@ layout: default
 
 - 2D Game
   - First Level:
-    - [comment]: <> (![Octocat] (img/FirstLevel.PNG))
     - <img src="img/FirstLevel.PNG" width=500>
   - Second Level
-    - [comment]: <> (![Octocat] (img/SecondLevel.PNG))
     - <img src="img/SecondLevel.PNG" width=500>
-
+    
 # Contact:
 ## Mail: carol.dominguez.dominguez@gmail.com
 ## Portfolio: https://www.artstation.com/carolina_d
