@@ -15,5 +15,5 @@ layout: default
     
 # Contact:
 ## Mail: carol.dominguez.dominguez@gmail.com
-## Portfolio: https://www.artstation.com/carolina_d
-## Linkedin: https://www.linkedin.com/in/carolina-dom%C3%ADngez-554094138/
+## [Portfolio] (https://www.artstation.com/carolina_d)
+## [Linkedin] (https://www.linkedin.com/in/carolina-dom%C3%ADngez-554094138/)
