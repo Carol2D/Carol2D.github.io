@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://carol2d.github.io/ChristmasAlienWeb/).
+[Jugar](https://carol2d.github.io/ChristmasAlienWeb/).
 
 There should be whitespace between paragraphs.
 
