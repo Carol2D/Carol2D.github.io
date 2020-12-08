@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Cristmas Alien
-## Version 1.0
+## Version 1.0 
+
+[Play](https://carol2d.github.io/ChristmasAlienWeb/).
 
 - 2D Game
   - First Level:
@@ -11,4 +13,4 @@ layout: default
   - Second Level
     - ![Octocat](img/SecondLevel.PNG)    
 
-[Play](https://carol2d.github.io/ChristmasAlienWeb/).
+
