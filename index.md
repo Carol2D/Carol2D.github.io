@@ -9,10 +9,10 @@ layout: default
 
 - 2D Game
   - First Level:
-    - [comment]: ![](img/FirstLevel.PNG =400x200)*)
+    - [comment]: <> (![Octocat] (img/FirstLevel.PNG))
     - <img src="img/FirstLevel.PNG" width=500>
   - Second Level
-    - (*![Octocat](img/SecondLevel.PNG =400x)*)
+    - [comment]: <> (![Octocat] (img/SecondLevel.PNG))
     - <img src="img/SecondLevel.PNG" width=500>
 
 # Contact:
