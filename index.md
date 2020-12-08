@@ -7,7 +7,7 @@ layout: default
 
 - 2D Game
   - First Level:
-    - ![Octocat](img/Cover_CA.JPG)
+    - ![Octocat](img/FirstLevel.PNG)
   - Second Level
     - ![Octocat](img/SecondLevel)    
 
