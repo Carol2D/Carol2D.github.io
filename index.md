@@ -5,7 +5,7 @@ layout: default
 # Cristmas Alien
 ## Version 1.0 
 
-[Play](https://carol2d.github.io/ChristmasAlienWeb/).
+[Play](https://carol2d.github.io/ChristmasAlienWeb/)
 
 - 2D Game
   - First Level:
@@ -15,5 +15,5 @@ layout: default
     
 # Contact:
 ## Mail: carol.dominguez.dominguez@gmail.com
-## [Portfolio] (https://www.artstation.com/carolina_d)
-## [Linkedin] (https://www.linkedin.com/in/carolina-dom%C3%ADngez-554094138/)
+## [Portfolio](https://www.artstation.com/carolina_d)
+## [Linkedin](https://www.linkedin.com/in/carolina-dom%C3%ADngez-554094138/)
