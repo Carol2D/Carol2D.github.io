@@ -9,6 +9,6 @@ layout: default
   - First Level:
     - ![Octocat](img/FirstLevel.PNG)
   - Second Level
-    - ![Octocat](img/SecondLevel)    
+    - ![Octocat](img/SecondLevel.PNG)    
 
 [Play](https://carol2d.github.io/ChristmasAlienWeb/).
