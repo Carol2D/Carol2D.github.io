@@ -14,6 +14,6 @@ layout: default
     - <img src="img/SecondLevel.PNG" width=500>
     
 # Contact:
-## Mail: carol.dominguez.dominguez@gmail.com
+## [Mail](carol.dominguez.dominguez@gmail.com)
 ## [Portfolio](https://www.artstation.com/carolina_d)
 ## [Linkedin](https://www.linkedin.com/in/carolina-dom%C3%ADngez-554094138/)
